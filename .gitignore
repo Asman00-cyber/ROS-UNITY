@@ -1,0 +1,16 @@
+# ROS build directories
+build/
+devel/
+install/
+logs/
+.catkin_workspace
+
+# IDE settings
+.vscode/
+
+# Python files
+*.pyc
+__pycache__/
+
+# Compiled files
+compile_flags.txt
